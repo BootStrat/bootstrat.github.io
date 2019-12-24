@@ -2245,13 +2245,7 @@ p {
         transition: all 0.3s ease-out 0s; }
         .footer-area .footer-widget .footer-link ul li a:hover {
           color: #0d5ca6; }
-.box{
-  position:absolute;
-  width: 767px;
-  left: 55%;
-  margin-left: -100px;
 
-}
 
 .footer-area .footer-copyright {
   padding-top: 13px;
